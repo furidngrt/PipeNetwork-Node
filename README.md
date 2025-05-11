@@ -1,4 +1,4 @@
-# POP Cache Node Setup Guide (Linux)
+# POP Node Setup Guide (Linux)
 
 This guide outlines how to set up and configure a Pipe Network POP Cache Node on a Linux server, using `screen` for persistent session handling. Make sure to have your **invite code** ready, sent via email after registration.
 
